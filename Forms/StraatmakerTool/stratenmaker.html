@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form action="stratenmaker.php" method="POST">
+      <label for="length">Lengte</label>
+      <input type="text" name="length" />
+      <label for="width">Breedte</label>
+      <input type="text" name="width" />
+      <label for="tile">Tegel</label>
+      <select name="tiles" id="">
+        <option value="30x30">30 x 30</option>
+        <option value="50x50">50 x 50</option>
+        <option value="60x60">60 x 60</option>
+      </select>
+      <div>
+        <label for="sand">Zand meeleveren</label>
+        <input type="checkbox" name="sand" />
+      </div>
+      <input type="submit" value="Bestellen" />
+    </form>
+  </body>
+</html>
