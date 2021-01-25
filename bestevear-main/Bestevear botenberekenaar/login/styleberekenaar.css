@@ -1,0 +1,109 @@
+/* achtergrond */
+
+body {
+    background-color: lightskyblue;
+    padding: 30px;
+    }
+
+    main {
+    width: 60%;
+    height: 50vh;
+    font-family: Arial, 'Lucida Sans';
+    background-color: lightgrey;
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 100px;
+    padding: 20px;
+
+}
+
+#TextForms {
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Formsitems {
+  text-align: center;
+}
+
+.LabelForms {
+  color: black;
+  text-align: right;
+  margin-right: 5px;
+}
+
+#Seizoenen {
+  width: 200px;
+  border-radius: 5%;
+  height: 33px;
+  margin: 1px;
+}
+
+#Watersoort {
+  width: 200px;
+  border-radius: 5%;
+  height: 33px;
+  margin: 1px;
+}
+
+#SchipOi {
+  width: 200px;
+  border-radius: 5%;
+  height: 33px;
+  margin: 1px;
+}
+
+#Gewichtbox {
+  width: 200px;
+  border-radius: 5%;
+  height: 33px;
+  margin: 1px;
+}
+
+#ladingid {
+  width: 200px;
+  border-radius: 5%;
+  height: 33px;
+  margin: 1px;
+}
+
+#LadingOpditmomentMomentID {
+  width: 200px;
+  border-radius: 5%;
+  height: 33px;
+  margin: 2px;
+}
+
+.schepenFotos {
+  float: left;
+  margin-left: 50px;
+  margin-top: 575px;
+  border-radius: 25%;
+  height: 275px;
+}
+
+/* html forms */
+
+.FormTable .labelTD {
+  text-align: right;
+  padding: 7px;
+}
+
+/* Results  */
+.myresult {
+  width: 200px;
+  height: 200px;
+  background-color: darkgrey;
+  margin: 5px;
+  padding: 5px;
+}
+#ResultDingetje {
+  margin-bottom: 400px;
+  margin-left: 200px;
+}
+
+#resultaat {
+  color: white;
+}
+
+/* Results  */
